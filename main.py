@@ -197,7 +197,11 @@ class Modelo():
         classification_metrics(mlp)
         classification_metrics(svc)
 
+        # A accuracy é semelhante entre os dois modelos, consistentemente sendo de mais de 90% em várias rodadas de treinamento e teste.
+        # Essa variação de accuracy se deve principalmente devido ao método Holdout (train_test_split).
+        # O MLPClassifier parece ter um desempenho levemente melhor do que o SVC (cerca de +2~4%).
 
+    
     def Train(self):
         """
         Função principal para o fluxo de treinamento do modelo.
