@@ -1,5 +1,5 @@
 # USP Data ICMC
-_Classificação do Iris Dataset utilizando os modelos de machine learning Multi-layer Perceptron Classifier (MLPClassifier) e Support Vector Machine (SVM)._
+Neste projeto é feita a classificação do Iris Dataset utilizando os modelos de machine learning Multi-layer Perceptron Classifier (MLPClassifier) e Support Vector Machine (SVM).
 
 ## Classificação de Espécies de Íris
 
