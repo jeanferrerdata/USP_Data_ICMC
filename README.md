@@ -1,7 +1,7 @@
 # USP Data ICMC
 Neste projeto é feita a classificação do Iris Dataset utilizando os modelos de machine learning Multi-layer Perceptron Classifier (MLPClassifier) e Support Vector Machine (SVM).
 
-## Classificação de Espécies de Íris
+## Classificação de Espécies de Iris
 
 Este projeto aplica técnicas de aprendizado de máquina para classificar diferentes espécies de flores do gênero Iris com base em medidas das sépalas e pétalas.
 
