@@ -13,7 +13,7 @@ O projeto é organizado em uma classe chamada `Modelo` que contém métodos para
 
 1. **CarregarDataset(path)**: Carrega o conjunto de dados a partir de um arquivo CSV.
 
-2. **TratamentoDeDados()**: Realiza o pré-processamento dos dados, incluindo a visualização inicial, análise de correlação e limpeza dos dados.
+2. **TratamentoDeDados()**: Realiza o pré-processamento dos dados, incluindo a visualização inicial, análise de correlação, redução de dimensionalidade e limpeza dos dados.
 
 3. **Treinamento()**: Treina dois modelos de machine learning: um `MLPClassifier` (rede neural) e um `SVC` (classificador de vetores de suporte). Este método também inclui validação cruzada para avaliar a acurácia dos modelos.
 
